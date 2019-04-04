@@ -1,2 +1,2 @@
 # node-practice
-Code with mosh practice classes
+Code with mosh - nodejs practice lessons
